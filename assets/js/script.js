@@ -1,15 +1,5 @@
 'use strict';
 
-function updateDateTime() {
-    const now = new Date();
-    const dateTimeString = now.toLocaleString();
-    document.getElementById('date-time').textContent = dateTimeString;
-  }
-
-  setInterval(updateDateTime, 1000);
-  updateDateTime();
-
-
 // navbar variables
 const nav = document.querySelector('.mobile-nav');
 const navMenuBtn = document.querySelector('.nav-menu-btn');
