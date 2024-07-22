@@ -5,24 +5,6 @@
 /**
  * copyright 2022 @codewithsadee 
  */
-.date-time {
-  margin-right: auto;
-  margin-left: 1010px;
-  font-size: 1em;
-  color: #333;
-}
-
-.search-bar {
-  margin-left: 1010px;
-  position: relative;
-}
-
-.search-bar input {
-  padding: 5px 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
 
 .gmr-topnotification {
   background-color: #f8f9fa;
